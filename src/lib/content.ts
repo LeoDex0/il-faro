@@ -3,7 +3,7 @@ export const site = {
   legalName: "Il Faro di Ricci Marco",
   tagline: "Cucina di mare, Romagna nel cuore",
   description:
-    "Ristorante a San Giuliano Mare, Rimini, a due passi dallo storico faro del porto canale. Cucina di mare e tradizione romagnola dal 1978.",
+    "Ristorante a due passi dallo storico faro del porto canale. Cucina di mare e tradizione romagnola dal 1978.",
   founded: 1978,
   address: {
     line1: "Largo Boscovich 4",
@@ -12,10 +12,10 @@ export const site = {
   },
   phone: "+39 0541 123 456",
   phoneHref: "+390541123456",
-  email: "tavolo@ilfaro-rimini.it",
+  email: "tavolo@ilfaro.it",
   social: {
-    instagram: "@ilfaro.rimini",
-    facebook: "Il Faro Rimini",
+    instagram: "@ilfaro.ristorante",
+    facebook: "Il Faro Ristorante",
   },
   hours: [
     { day: "Martedì – Venerdì", time: "19:00 – 23:30" },
@@ -357,7 +357,7 @@ export const timeline = [
   {
     year: "1754",
     title: "La luce del porto",
-    text: "Viene costruito il Faro di Rimini, a guardia dell'ingresso del porto canale: 27 metri verso il cielo, per guidare chi torna a riva.",
+    text: "Viene costruito il Faro, a guardia dell'ingresso del porto canale: 27 metri verso il cielo, per guidare chi torna a riva.",
   },
   {
     year: "1978",
@@ -377,7 +377,7 @@ export const timeline = [
   {
     year: "Oggi",
     title: "La stessa luce",
-    text: "Il Faro continua a raccontare il mare di Rimini e la tavola di Romagna, una cena alla volta.",
+    text: "Il Faro continua a raccontare il mare e la tavola di Romagna, una cena alla volta.",
   },
 ] as const;
 
@@ -385,7 +385,7 @@ export const team = [
   {
     name: "Marco Ricci",
     role: "Chef, terza generazione",
-    bio: "Cresciuto tra i tavoli della trattoria di Nonna Ada, ha lavorato nelle cucine di Modena e delle Marche prima di tornare a Rimini nel 2015 con uno sguardo contemporaneo sulla cucina di famiglia.",
+    bio: "Cresciuto tra i tavoli della trattoria di Nonna Ada, ha lavorato nelle cucine di Modena e delle Marche prima di tornare a casa nel 2015 con uno sguardo contemporaneo sulla cucina di famiglia.",
     image: "/images/chef-impiattamento.jpg",
   },
   {
@@ -408,7 +408,7 @@ export const gallery: GalleryImage[] = [
   { src: "/images/hero-terrazza-sera.jpg", alt: "Terrazza sul porto canale all'imbrunire", width: 2400, height: 1500, wide: true },
   { src: "/images/tagliolini-piatto-scuro.jpg", alt: "Tagliolini al nero di seppia", width: 1600, height: 2000 },
   { src: "/images/chef-cucina-buia.jpg", alt: "Lo chef al lavoro in cucina", width: 2400, height: 1600, wide: true },
-  { src: "/images/spiaggia-ombrelloni-adriatico.jpg", alt: "La spiaggia dell'Adriatico a Rimini", width: 2000, height: 1500, wide: true },
+  { src: "/images/spiaggia-ombrelloni-adriatico.jpg", alt: "La spiaggia dell'Adriatico", width: 2000, height: 1500, wide: true },
   { src: "/images/risotto-piatto.jpg", alt: "Risotto al radicchio e Sangiovese", width: 1600, height: 1600 },
   { src: "/images/sala-interno-atmosfera.jpg", alt: "La sala interna a lume di candela", width: 1800, height: 2200 },
   { src: "/images/bruschetta-pomodoro.jpg", alt: "Bruschetta al pomodoro di Romagna", width: 1600, height: 1600 },
@@ -444,7 +444,7 @@ export const faqs = [
   {
     question: "Organizzate eventi privati o cene aziendali?",
     answer:
-      "Sì, la sala superiore può ospitare fino a 24 persone. Scrivete a tavolo@ilfaro-rimini.it per un preventivo.",
+      "Sì, la sala superiore può ospitare fino a 24 persone. Scrivete a tavolo@ilfaro.it per un preventivo.",
   },
   {
     question: "È adatto ai bambini?",

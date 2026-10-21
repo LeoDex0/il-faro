@@ -14,7 +14,7 @@ import { faqs, site } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Prenotazioni",
   description:
-    "Prenota un tavolo al ristorante Il Faro a Rimini: confermiamo la disponibilità via email o telefono entro poche ore.",
+    "Prenota un tavolo al ristorante Il Faro: confermiamo la disponibilità via email o telefono entro poche ore.",
 };
 
 export default function PrenotazioniPage() {

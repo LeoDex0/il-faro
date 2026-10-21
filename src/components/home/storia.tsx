@@ -34,7 +34,7 @@ export function Storia() {
           <p className="mt-6 max-w-lg leading-relaxed text-foam/70">
             Nel 1978 Ada apriva otto tavoli a due passi dal faro del porto.
             Oggi il nipote Marco guida la stessa cucina, tra le ricette di
-            famiglia e uno sguardo contemporaneo sul mare di Rimini.
+            famiglia e uno sguardo contemporaneo sul mare.
           </p>
           <blockquote className="mt-8 max-w-lg border-l-2 border-beam/50 pl-6 font-display text-2xl italic leading-snug text-foam/90">
             «Cuciniamo quello che il porto ci porta la mattina. Il resto lo

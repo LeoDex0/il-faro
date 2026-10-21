@@ -20,11 +20,8 @@ export const metadata: Metadata = {
   },
   description: site.description,
   keywords: [
-    "ristorante Rimini",
-    "ristorante pesce Rimini",
     "cucina romagnola",
     "San Giuliano Mare",
-    "porto canale Rimini",
     "ristorante Adriatico",
   ],
   openGraph: {

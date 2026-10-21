@@ -9,7 +9,7 @@ import { menu, type DietTag } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Menu",
   description:
-    "Il menu del ristorante Il Faro a Rimini: antipasti, primi, secondi, contorni, dolci e la carta dei vini di Romagna.",
+    "Il menu del ristorante Il Faro: antipasti, primi, secondi, contorni, dolci e la carta dei vini di Romagna.",
 };
 
 const TAG_LABELS: Record<Exclude<DietTag, "firma">, string> = {
@@ -28,7 +28,7 @@ export default function MenuPage() {
       <PageHero
         eyebrow="Il menu"
         title="Dal porto alla tavola"
-        description="Materia prima del mercato ittico di Rimini e dell'entroterra romagnolo. Il menu segue la stagione e il pescato del giorno."
+        description="Materia prima del mercato ittico e dell'entroterra romagnolo. Il menu segue la stagione e il pescato del giorno."
         image="/images/chef-cucina-buia.jpg"
         imageAlt="Lo chef al lavoro in cucina"
       />

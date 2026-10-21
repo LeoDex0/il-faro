@@ -9,7 +9,7 @@ import { team, timeline } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Chi Siamo",
   description:
-    "La storia della famiglia Ricci: da Nonna Ada al nipote Marco, tre generazioni di cucina a due passi dal faro di Rimini.",
+    "La storia della famiglia Ricci: da Nonna Ada al nipote Marco, tre generazioni di cucina a due passi dallo storico faro.",
 };
 
 export default function ChiSiamoPage() {

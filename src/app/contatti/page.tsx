@@ -10,7 +10,7 @@ import { mapEmbedSrc, site } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Contatti",
   description:
-    "Contatta il ristorante Il Faro a Rimini: indirizzo, telefono, email e modulo di contatto.",
+    "Contatta il ristorante Il Faro: indirizzo, telefono, email e modulo di contatto.",
 };
 
 export default function ContattiPage() {

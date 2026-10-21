@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { site } from "@/lib/content";
 
-export const alt = "Il Faro — Ristorante a Rimini";
+export const alt = "Il Faro — Ristorante di pesce";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -48,7 +48,7 @@ export default function Image() {
           {site.tagline}
         </div>
         <div style={{ display: "flex", fontSize: 24, marginTop: 34, color: "rgba(244,238,224,0.55)" }}>
-          Rimini · San Giuliano Mare
+          Dal {site.founded}
         </div>
       </div>
     ),

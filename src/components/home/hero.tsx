@@ -78,7 +78,7 @@ export function Hero() {
             className="mt-7 max-w-md text-balance-pretty text-base leading-relaxed text-foam/70 sm:text-lg"
           >
             Cucina di mare e tradizione romagnola, a due passi dallo storico
-            faro di Rimini.
+            faro del porto.
           </motion.p>
 
           <motion.div

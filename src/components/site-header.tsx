@@ -75,7 +75,7 @@ export function SiteHeader() {
         >
           Il Faro
           <span className="ml-2.5 hidden font-sans text-[0.65rem] font-medium uppercase tracking-[0.2em] text-foam/50 sm:inline">
-            Rimini · dal {site.founded}
+            dal {site.founded}
           </span>
         </Link>
 
