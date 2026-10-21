@@ -1,5 +1,4 @@
 import { Hero } from "@/components/home/hero";
-import { MarqueeStrip } from "@/components/home/marquee-strip";
 import { Storia } from "@/components/home/storia";
 import { Logbook } from "@/components/home/logbook";
 import { MenuHighlights } from "@/components/home/menu-highlights";
@@ -16,7 +15,6 @@ export default function Home() {
     <>
       <SectionDots sections={homeSections} />
       <Hero />
-      <MarqueeStrip />
       <Storia />
       <Logbook />
       <MenuHighlights />
