@@ -2,7 +2,9 @@
 
 Website for a seafood restaurant. Menu, gallery and table booking.
 
-**Live:** https://il-faro.vercel.app
+![Preview](.github/preview.jpg)
+
+**Live:** [il-faro.vercel.app](https://il-faro.vercel.app)
 
 ## Stack
 
