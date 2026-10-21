@@ -1,6 +1,6 @@
 # Il Faro
 
-Website for a seafood restaurant in Rimini, Italy. Menu, gallery and table booking.
+Website for a seafood restaurant. Menu, gallery and table booking.
 
 **Live:** https://il-faro-rimini.vercel.app
 
