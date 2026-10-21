@@ -2,7 +2,7 @@
 
 Website for a seafood restaurant. Menu, gallery and table booking.
 
-**Live:** https://il-faro-rimini.vercel.app
+**Live:** https://il-faro.vercel.app
 
 ## Stack
 
